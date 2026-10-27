@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/models" />
     </content>
     <orderEntry type="jdk" jdkName="~/Documents/PROJECT/PycharmProjects/BD.DP_BD.WH/Laboratory_A.04_Data.Merging/Mergozzo_1.0.0/.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
